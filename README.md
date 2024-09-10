@@ -3,7 +3,7 @@ Files from HTTP5114 course
 
 I am here to make a change
 
-## Strating a new project
+## Starting a new project
 
 1. Make anew repo on github.com
 2. Open your terminal
