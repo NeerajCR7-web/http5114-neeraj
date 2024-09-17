@@ -20,3 +20,9 @@ This is an unordered list:
 ## Links
 
 This is a link to [my portfolio](https://github.com/NeerajCR7-web/)
+
+## Images
+
+This is an image
+
+![BrickMM0 Beach](beach.jpg)
