@@ -50,5 +50,5 @@ function |test(){
 
 # Github Flavour
 
->Note
+>[!Note]
 >This is a Note!
