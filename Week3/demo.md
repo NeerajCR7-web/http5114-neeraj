@@ -35,8 +35,15 @@ To add an image use an `<img>` tag
 Tou can add multi-line code by using three tics and the name of the coding language
 
 ```javascript
-function test(){
+function |test(){
     console.log("test");
 }
 ```
 
+## Tables
+
+| Language   | Rating |
+| ---------- | ------ |
+| HTML       | 5      |
+| Javascript | 7      |
+| CSS        | 9      |
