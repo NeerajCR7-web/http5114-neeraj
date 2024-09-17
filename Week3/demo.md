@@ -27,4 +27,15 @@ This is an image
 
 ![BrickMM0 Beach](beach.jpg)
 
-<img src="beach.jpg" height="100" width="100">
+## Code
+
+We can put inline code by using a tic.
+To add an image use an `<img>` tag
+
+Tou can add multi-line code by using three tics and the name of the coding language
+
+```
+function test(){
+    console.log("test");
+}
+```
