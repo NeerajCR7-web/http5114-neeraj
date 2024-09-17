@@ -25,7 +25,7 @@ This is a link to [my portfolio](https://github.com/NeerajCR7-web/)
 
 This is an image
 
-![BrickMM0 Beach](beach.jpg)
+![BrickMM0 Beach](journey.jpg)
 
 ## Code
 
