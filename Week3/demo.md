@@ -25,7 +25,7 @@ This is a link to [my portfolio](https://github.com/NeerajCR7-web/)
 
 This is an image
 
-![BrickMM0 Beach](journey.jpg)
+![BrickMM0 Beach](beach.jpg)
 
 ## Code
 
@@ -34,8 +34,9 @@ To add an image use an `<img>` tag
 
 Tou can add multi-line code by using three tics and the name of the coding language
 
-```
+```javascript
 function test(){
     console.log("test");
 }
 ```
+
