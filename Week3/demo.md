@@ -26,3 +26,5 @@ This is a link to [my portfolio](https://github.com/NeerajCR7-web/)
 This is an image
 
 ![BrickMM0 Beach](beach.jpg)
+
+<img src="beach.jpg" height="100" width="100">
