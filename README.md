@@ -10,4 +10,4 @@ I am here to make a change
 3. NAvigate your terminal to project destination
 4. Close the repo
 5. Change directory into the new folder
-6. Open VScode an dpoint to the same folder
+6. Open VScode and point to the same folder
